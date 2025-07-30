@@ -10,7 +10,7 @@ Anak Desa adalah nama sebutan dari pedesaan 'cah ndeso', memotivasi kami yang da
 ![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-Free/master/all.PNG?raw=true)
 
 Rancangan ASIMSE 4.0 FREE SC 
-
+(Varsi 4.0 beta)
 Tema Website Profil
 - PROFIL
 - KESISWAAN
