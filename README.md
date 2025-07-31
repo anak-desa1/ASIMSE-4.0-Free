@@ -7,6 +7,9 @@ Anak Desa adalah nama sebutan dari pedesaan 'cah ndeso', memotivasi kami yang da
 ![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-Free/master/1_promo.PNG?raw=true)
 ![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-Free/master/2_promo.PNG?raw=true)
 ![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-Free/master/3_promo.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-Free/master/4_promo.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-Free/master/5_promo.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-Free/master/6_promo.PNG?raw=true)
 ![alt text](https://raw.githubusercontent.com/anak-desa1/ASIMSE-4.0-Free/master/all_promo.PNG?raw=true)
 
 Rancangan ASIMSE 4.0 FREE SC 
@@ -24,9 +27,14 @@ Tema Website Profil
 - GALERY
 - CONTACT
 
-Untuk file lengkap sc free (tanpa biaya) lakukan regitrasi terlebih dahulu... !
-Atau bisa langsung gabung di grup kami, 
-Atau bisa langsung wa, data akan di kirim by email dan wa.
+Cara install :
+1. Download File 
+2. Ekstrak File 
+3. Copy ke C:\xampp\htdocs
+4. buka google ketikkan http://localhost/phpmyadmin/
+5. buat database baru dan upload database asimse_free.sql
+6. buka google ketikkan http://localhost/nama_folder/
+
 Untuk konfirmasi bisa hubungi kami di WA : 0858 0517 8397
 
 

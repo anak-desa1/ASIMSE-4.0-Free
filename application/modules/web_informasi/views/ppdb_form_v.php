@@ -77,8 +77,7 @@
                   <nav>
                     <div class="nav nav-tabs" id="nav-tab" role="tablist">
                       <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Form Registrasi</button>
-                      <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Data Register</button>
-                      <!-- <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Info PPDB</button> -->
+                      <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Data Register</button>                    
                     </div>
                   </nav>
 
@@ -291,7 +290,7 @@
               <h5>LOGIN PPDB</h5>
             </div>
            
-            <form method="post" action="<?= base_url() ?>/ppdb">
+            <form method="post" action="<?= base_url() ?>ppdb/login">
               <div class="card-body">
 
                 <div class="form-group col-lg-12">
